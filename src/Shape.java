@@ -1,5 +1,5 @@
 public class Shape {
-    private Point[] points;
+    private final Point[] points;
     public Shape(Point[] points) {
         this. points = points;
     }
