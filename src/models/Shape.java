@@ -1,3 +1,4 @@
+package models;
 public class Shape {
     private final Point[] points;
     public Shape(Point[] points) {

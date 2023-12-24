@@ -1,3 +1,5 @@
+import models.Point;
+import models.Shape;
 public class MyApplication {
     public static void main(String[] args) {
         Point[] points = new Point[10]; //creating 10 points

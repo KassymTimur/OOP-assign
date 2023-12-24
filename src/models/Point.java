@@ -1,7 +1,9 @@
+package models;
+
 public class Point {
     private final double x;
     private final double y;
-    public Point(double x, double y){ //creating Point
+    public Point(double x, double y){ //creating models.Point
         this.x = x;
         this.y = y;
     }
